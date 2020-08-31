@@ -1,7 +1,19 @@
-# Welcome on my GitHub profile! 👋
-
 <!--
-**renzocarara/renzocarara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**renzocarara/renzocarara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+# Welcome on my GitHub profile! 🙋‍♂️
+
+<details>
+  <summary>GitHub Stats:</summary>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true"/>
+</details>
+<!--
+<p align=center>
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
+</p>
 
 Here are some ideas to get you started:
 
@@ -14,6 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+extra pins
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront)
 
 ![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
 [![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)](https://forum.xda-developers.com/member.php?u=4561985)[![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
@@ -68,10 +83,6 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/renzocarara?v=3)
 
-<p align=center>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
-</p>
-
 <details>
   <summary>Some other facts about me</summary>
   <br>
@@ -91,9 +102,9 @@ Here are some ideas to get you started:
 
 </details>
 
-
 [linkedin]: https://www.linkedin.com/in/renzocarara
 [gmail]: mailto:renzo.carara@libero.it "Lets connect through email"
 [github]: https://github.com/renzocarara
 [licence]: https://github.com/renzocarara/renzocarara/blob/master/LICENSE
+
 -->
