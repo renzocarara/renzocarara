@@ -4,15 +4,19 @@
 # Welcome on my GitHub profile!
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
 </details>
 
+![](https://visitor-badge.glitch.me/badge?page_id=renzocarara.renzocarara)
+
 <p align=center>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
+
 </p>
+
 <!--
 
 Here are some ideas to get you started:
@@ -41,12 +45,6 @@ extra pins
 
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a> <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a>
 
-## Github Stats :
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
-
 ## 🛠️ **Languages & Tools:**
 
 ## 🌐 **Reach out to me:** ️
@@ -66,7 +64,7 @@ extra pins
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Nuxt.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -79,7 +77,7 @@ extra pins
 
 [![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![](https://visitor-badge.glitch.me/badge?page_id=renzocarara.renzocarara)
 
 ![Profile views](https://gpvc.arturio.dev/renzocarara?v=3)
 
@@ -89,16 +87,12 @@ extra pins
 
 - 🎉 57/60
 - 🍎 In the army
+- vegan
+- love animals
+- star trek
 
 <p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-
-<h4 align="center">Github Stats:</h4>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true"/>
-</p>
 
 </details>
 
