@@ -1,7 +1,7 @@
 <!--
 **renzocarara/renzocarara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Welcome on my GitHub profile! 🙋‍♂️
+# Welcome on my GitHub profile!
 
 <details>
   <summary>GitHub Stats</summary>
@@ -9,10 +9,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
 </details>
-<!--
+
 <p align=center>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
 </p>
+<!--
 
 Here are some ideas to get you started:
 
