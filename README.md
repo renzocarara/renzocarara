@@ -20,20 +20,13 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=58e273)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=b583ea)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-
-## 🌐 **How to reach me**
-
-<p align="center">
-<a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"  alt="Mail"></a>
-
-</p>
 
 ## 📈 **GitHub Stats**
 
@@ -42,6 +35,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
 </p>
 
+## 🌐 **How to reach me**
+
+<p align="center">
+<a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.renzocarara.it"><img src="https://img.shields.io/badge/-renzocarara.it-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"  alt="Mail"></a>
+
+</p>
 <!--
 
 About me
