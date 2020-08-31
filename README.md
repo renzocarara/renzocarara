@@ -37,8 +37,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.renzocarara.it"><img src="https://img.shields.io/badge/-renzocarara.it-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"  alt="Mail"></a>
+<a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-renzocarara.it-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Mail"></a>
 </p>
 
 <!--
