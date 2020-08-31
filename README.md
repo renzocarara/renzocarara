@@ -20,7 +20,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=58e273)
