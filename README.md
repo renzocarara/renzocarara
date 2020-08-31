@@ -20,7 +20,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
+![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-333333?style=flat&logo=visual-studio-code&logoColor=2e81f4)
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=58e273)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=b583ea)
@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"  alt="Mail"></a>
 
 </p>
 
