@@ -4,11 +4,10 @@
 # Welcome on my GitHub profile! 🙋‍♂️
 
 <details>
-  <summary>GitHub Stats:</summary>
+  <summary>GitHub Stats</summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true"/>
 </details>
 <!--
 <p align=center>
