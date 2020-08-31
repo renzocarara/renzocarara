@@ -5,32 +5,32 @@
 
 ## 🛠️ **Languages & Tools**
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=5ab1f8)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat&logo=vuetify.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=Nuxt.js)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
-![PHP](https://img.shields.io/badge/-Php-black?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=5ab1f8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=a055f0)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=Nuxt.js)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=83b8ea)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/-Visual-000000?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
-![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=76bbf4)
+![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=58e273)
 
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=b583ea)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 
 ## 🌐 **How to reach me**
 
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Mail&logoColor=white"/></a>
+<a href="mailto:renzo.carara@libero.it"><img src="https://img.shields.io/badge/-renzo.carara@libero.it-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 📈 **GitHub Stats**
 
