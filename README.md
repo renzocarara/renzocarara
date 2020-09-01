@@ -5,7 +5,7 @@
 ## 👨 **About me**
 
 I'm Renzo Carara, a junior full stack web developer.<br>
-I really interested in coding and web technologies and I'm trying to increase my IT knowledge.<br>
+I'm really interested in coding and web technologies and I'm trying to increase my IT knowledge.<br>
 I'm aspiring to become a skilled software web developer. I'm currently looking for a job.<br>
 
 ## 🛠️ **Languages & Tools**
@@ -55,12 +55,6 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="https://github.com/renzocarara/digifront" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront" />
 </a>
-
-<!-->
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront)
--->
 
 <p align=center>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
