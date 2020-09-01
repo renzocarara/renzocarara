@@ -17,6 +17,7 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=plastic&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=a055f0)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=plastic&logo=vue.js)
+![mail](https://img.shields.io/badge/-Vue-333333?style=plastic&logo=mail.ru)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=plastic&logo=vuetify&logoColor=76bbf4)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=plastic&logo=Nuxt.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel)
