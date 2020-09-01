@@ -1,6 +1,7 @@
 <!-- renzocarara/renzocarara is a special repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img src="https://github.com/renzocarara/renzocarara/raw/master/assets/banner1.png" alt="divider" />
 <img src="https://github.com/renzocarara/renzocarara/raw/master/assets/banner2.png" alt="divider" />
+<img src="https://github.com/renzocarara/renzocarara/raw/master/assets/banner3.png" alt="divider" />
 
 # Welcome on my GitHub profile!
 
