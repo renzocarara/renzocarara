@@ -1,4 +1,9 @@
 <!-- renzocarara/renzocarara is a special repository because its `README.md` (this file) appears on your GitHub profile. -->
+<img src="https://github.com/renzocarara/renzocarara/assets/banner.png" alt="divider" />
+<br>
+<img src="https://github.com/renzocarara/renzocarara/raw/master/assets/banner.png" alt="divider" />
+<br>
+<img src="https://githubusercontent.com/renzocarara/renzocarara/master/assets/banner.png" alt="divider" />
 
 # Welcome on my GitHub profile!
 
@@ -31,6 +36,8 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=plastic&logo=heroku&logoColor=b583ea)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=plastic&logo=netlify)
 
+<br>
+
 ## 📈 **GitHub Stats**
 
 <p align="center">
@@ -40,6 +47,7 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="https://github.com/renzocarara/renzocarara">
 <img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats repos" /></a>
 </p>
+<br>
 
 ## 🌐 **How to reach me**
 
@@ -48,13 +56,15 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
 <a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
-
+<br>
 <a href="https://github.com/renzocarara/digiback" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback" />
 </a>
 <a href="https://github.com/renzocarara/digifront" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront" />
 </a>
+
+<br><br>
 
 <p align=center>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
