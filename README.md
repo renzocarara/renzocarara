@@ -59,11 +59,11 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 
 ## 💼 **Some of my works**
 
-<a href="https://github.com/renzocarara/digiback" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback" />
+<a href="https://github.com/renzocarara/nuxt_wr" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr" />
 </a>
-<a href="https://github.com/renzocarara/digifront" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront" />
+<a href="https://github.com/renzocarara/vuememo" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo" />
 </a>
 
 <br><br>
