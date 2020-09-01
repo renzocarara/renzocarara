@@ -4,9 +4,9 @@
 
 ## 👨 **About me**
 
-I'm Renzo Carara, a junior full stack web developer.
-I really interested in coding and web technologies and I'm trying to increase my IT knowledge.
-I'm aspiring to become a skilled software web developer.I'm currently looking for a job.
+I'm Renzo Carara, a junior full stack web developer.<br>
+I really interested in coding and web technologies and I'm trying to increase my IT knowledge.<br>
+I'm aspiring to become a skilled software web developer. I'm currently looking for a job.<br>
 
 ## 🛠️ **Languages & Tools**
 
