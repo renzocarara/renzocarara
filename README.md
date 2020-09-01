@@ -53,14 +53,14 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
 
-## 💼 **Some of my works**
+## 💼 **Some of my recent works**
 
 <a href="https://github.com/renzocarara/nuxt_wr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr" />
 </a>
-<!-- <a href="https://github.com/renzocarara/vuememo" target="_blank">
+<a href="https://github.com/renzocarara/vuememo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo" />
-</a> -->
+</a>
 
 <br><br>
 
