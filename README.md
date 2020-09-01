@@ -50,12 +50,15 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 
 ## 🌐 **How to reach me**
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
 <a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
 <br>
+
+## 💼 **Some of my works**
+
 <a href="https://github.com/renzocarara/digiback" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback" />
 </a>
