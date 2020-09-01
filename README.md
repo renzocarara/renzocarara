@@ -8,20 +8,19 @@
 
 ## 👨 **About me**
 
-I'm Renzo Carara, a junior full stack web developer.<br>
-I'm really interested in coding and web technologies and I'm trying to increase my IT knowledge.<br>
+I'm Renzo Carara, a **junior full stack web developer**.<br>
+I'm really interested in _coding_ and _web technologies_ and I'm trying to increase my IT knowledge.<br>
 I'm aspiring to become a skilled software web developer.<br>
-<br>
 
 <details>
   <summary>Some other facts about me</summary>
   <br>
   <ul>
-    🌿 I'm vegan
-    🐶I love animals
-    🚴 🏊 I love sports
-    🚀 I'm fond of Star Trek TOS
-    🚔I've spent 1 year in the army
+    <li>🐶I love animals</li>
+    <li>🚴 🏊 I love sports</li>
+    <li></li>🌿 I'm vegan</li>
+    <li>🚀 I'm fond of Star Trek TOS</li>
+    <li>🚔I've spent 1 year in the army</li>
   </ul>
 </details>
 <br>
