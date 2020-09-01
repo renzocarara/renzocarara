@@ -58,9 +58,9 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="https://github.com/renzocarara/nuxt_wr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr" />
 </a>
-<a href="https://github.com/renzocarara/vuememo" target="_blank">
+<!-- <a href="https://github.com/renzocarara/vuememo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo" />
-</a>
+</a> -->
 
 <br><br>
 
