@@ -17,7 +17,6 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=plastic&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=a055f0)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=plastic&logo=vue.js)
-![mail](https://img.shields.io/badge/-Vue-333333?style=plastic&logo=mail.ru)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=plastic&logo=vuetify&logoColor=76bbf4)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=plastic&logo=Nuxt.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel)
@@ -43,8 +42,8 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 
 <p align="center">
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-e-mail-168DE2?style=flat-square-square&logo=mail.ru&logoColor=white" alt="e-mail"></a>
+<a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
+<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-e-mail-168DE2?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"></a>
 </p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
