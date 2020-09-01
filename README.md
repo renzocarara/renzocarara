@@ -43,8 +43,7 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <p align="center">
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
-<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-168DE2?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
-<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-168DE2?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"></a>
+<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
