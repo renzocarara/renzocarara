@@ -23,7 +23,6 @@ I'm aspiring to become a skilled software web developer.<br>
     <li>🚔 I've spent 1 year in the army</li>
   </ul>
 </details>
-<br>
 
 ## 🛠️ **Languages & Tools**
 
