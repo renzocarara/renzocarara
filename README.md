@@ -34,8 +34,11 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 ## 📈 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats repos" />
+<a href="https://github.com/renzocarara/renzocarara">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats languages" /></a>
+
+<a href="https://github.com/renzocarara/renzocarara">
+<img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats repos" /></a>
 </p>
 
 ## 🌐 **How to reach me**
@@ -46,8 +49,18 @@ I'm aspiring to become a skilled software web developer. I'm currently looking f
 <a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
 
+<a href="https://github.com/renzocarara/digiback" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback" />
+</a>
+<a href="https://github.com/renzocarara/digifront" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront" />
+</a>
+
+<!-->
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront)
+-->
 
 <p align=center>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
