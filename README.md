@@ -4,8 +4,9 @@
 
 ## 👨 **About me**
 
-I'm Renzo Carara, a junior full stack web developer. I really interested in coding and web technologies and I'm trying to increase my IT knowledge. I'm aspiring to become a skilled software web developer.
-I'm currently looking for a job.
+I'm Renzo Carara, a junior full stack web developer. I really interested in coding and web technologies and I'm trying to increase my IT knowledge.
+
+I'm aspiring to become a skilled software web developer.I'm currently looking for a job.
 
 ## 🛠️ **Languages & Tools**
 
@@ -33,8 +34,8 @@ I'm currently looking for a job.
 ## 📈 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" />
-<img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="renzocarara's Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats repos" />
 </p>
 
 ## 🌐 **How to reach me**
@@ -42,10 +43,9 @@ I'm currently looking for a job.
 <p align="center">
 <a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-3423A6?style=plastic-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-e-mail-D14836?style=plastic-square&logo=mail.ru&logoColor=white" alt="e-mail"></a>
+<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-e-mail-D14836?style=plastic-square&logo=mail-dot-ru&logoColor=white" alt="e-mail"></a>
 </p>
 
-<!--
 <details>
   <summary>Some other facts about me</summary>
   <br>
@@ -54,12 +54,11 @@ I'm currently looking for a job.
 - I love animals
 - I'm fond of Star Trek TOS
 </details>
--->
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digiback)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=digifront)
 
 <p align=center>
-  🙏 Thanks for visiting
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=renzocarara.renzocarara">
+  🙏 Thanks for visiting
 </p>
