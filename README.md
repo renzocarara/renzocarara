@@ -52,7 +52,7 @@ I'm aspiring to become a skilled software web developer.<br>
 
 <p align="center">
 <a href="https://github.com/renzocarara/renzocarara">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color="135,#03279f,#0777fd,#028bfb,#3cbeef" alt="stats languages" /></a>
 
 <a href="https://github.com/renzocarara/renzocarara">
 <img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333333" alt="stats repos" /></a>
