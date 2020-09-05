@@ -31,7 +31,7 @@ I'm aspiring to become a skilled software web developer.<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=plastic&logo=jQuery&logoColor=0769AD)
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=plastic&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=a055f0)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=plastic&logo=bootstrap&logoColor=a055f0)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=plastic&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=plastic&logo=vuetify&logoColor=76bbf4)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=plastic&logo=Nuxt.js)
