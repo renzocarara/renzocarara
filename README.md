@@ -76,6 +76,9 @@ I'm aspiring to become a skilled software web developer.<br>
 <a href="https://github.com/renzocarara/vuememo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo" />
 </a>
+<a href="https://github.com/renzocarara/jatla" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla" />
+</a>
 
 <br><br><br>
 
