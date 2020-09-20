@@ -16,8 +16,8 @@ I'm aspiring to become a skilled software web developer.<br>
   <summary>Some other facts about me</summary>
   <br>
   <ul>
-    <li>🐶 I love animals</li>
     <li>🚴 🏊 I love sports</li>
+    <li>🐶 I love animals</li>
     <li>🌿 I'm on a vegan diet</li>
     <li>🚀 I'm fond of Star Trek TOS</li>
     <li>🚔 I've spent 1 year in the army</li>
