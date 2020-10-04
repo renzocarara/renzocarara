@@ -52,7 +52,7 @@ I'm aspiring to become a skilled software web developer.<br>
 
 <p align="center">
 <a href="https://github.com/renzocarara/renzocarara">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=28&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" alt="stats languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" alt="stats languages" /></a>
 
 <a href="https://github.com/renzocarara/renzocarara">
 <img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=d1ff02&bg_color=135,03279f,0777fd,028bfb,3cbeef" alt="stats repos" /></a>
@@ -62,15 +62,15 @@ I'm aspiring to become a skilled software web developer.<br>
 ## 💼 **Some of my recent works**
 
 <a href="https://github.com/renzocarara/nuxt_wr" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=270,03279f,0777fd,028bfb,3cbeef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr&title_color=ffffff&text_color=c9cacc&icon_color=f7ff03&bg_color=90,32b6bf,0777fd,38cbd5,3bdee8" />
 </a>
 <a href="https://github.com/renzocarara/vuememo" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,03279f,0777fd,028bfb,3cbeef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo&title_color=ffffff&text_color=c9cacc&icon_color=f7ff03&bg_color=90,32b6bf,0777fd,38cbd5,3bdee8" />
 </a>
 <a href="https://github.com/renzocarara/jatla" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=225,03279f,0777fd,028bfb,3cbeef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla&title_color=ffffff&text_color=c9cacc&icon_color=f7ff03&bg_color=90,32b6bf,0777fd,38cbd5,3bdee8" />
 </a>
-<br>
+<br><br><br>
 
 ## 🌐 **How to reach me**
 
