@@ -71,13 +71,13 @@ I'm aspiring to become a skilled software web developer.<br>
 ## 💼 **Some of my recent works**
 
 <a href="https://github.com/renzocarara/nuxt_wr" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" />
 </a>
 <a href="https://github.com/renzocarara/vuememo" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo&title_color=ffffff&text_color=c9cacc&icon_color=d1ff02&bg_color=135,03279f,0777fd,028bfb,3cbeef" />
 </a>
 <a href="https://github.com/renzocarara/jatla" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" />
 </a>
 
 <br><br><br>
