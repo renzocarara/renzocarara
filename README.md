@@ -52,19 +52,10 @@ I'm aspiring to become a skilled software web developer.<br>
 
 <p align="center">
 <a href="https://github.com/renzocarara/renzocarara">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=27&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" alt="stats languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocarara&hide_langs_below=1&theme=default&line_height=28&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" alt="stats languages" /></a>
 
 <a href="https://github.com/renzocarara/renzocarara">
 <img src="https://github-readme-stats.vercel.app/api?username=renzocarara&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=ffffff&text_color=c9cacc&icon_color=d1ff02&bg_color=135,03279f,0777fd,028bfb,3cbeef" alt="stats repos" /></a>
-</p>
-<br>
-
-## 🌐 **How to reach me**
-
-<p>
-<a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
-<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
 </p>
 <br>
 
@@ -74,11 +65,20 @@ I'm aspiring to become a skilled software web developer.<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=nuxt_wr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" />
 </a>
 <a href="https://github.com/renzocarara/vuememo" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo&title_color=ffffff&text_color=c9cacc&icon_color=d1ff02&bg_color=135,03279f,0777fd,028bfb,3cbeef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=vuememo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,03279f,0777fd,028bfb,3cbeef" />
 </a>
 <a href="https://github.com/renzocarara/jatla" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=-45,03279f,0777fd,028bfb,3cbeef" />
 </a>
+<br>
+
+## 🌐 **How to reach me**
+
+<p>
+<a href="https://www.linkedin.com/in/renzocarara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.renzocarara.it" target="_blank"><img src="https://img.shields.io/badge/-website-146768?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
+<a href="mailto:renzo.carara@libero.it" target="_blank"><img src="https://img.shields.io/badge/-email-e91b3c?style=flat-square&logo=mail.ru&logoColor=white" alt="e-mail"/></a>
+</p>
 
 <br><br><br>
 
