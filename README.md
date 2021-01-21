@@ -70,6 +70,9 @@ I'm striving to become a skilled software web developer.<br>
 <a href="https://github.com/renzocarara/jatla" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=jatla&title_color=ffffff&text_color=c9cacc&icon_color=f7ff03&bg_color=90,03279f,0777fd,028bfb,3cbeef" />
 </a>
+<a href="https://github.com/renzocarara/kuoz" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renzocarara&repo=kuoz&title_color=ffffff&text_color=c9cacc&icon_color=f7ff03&bg_color=90,03279f,0777fd,028bfb,3cbeef" />
+</a>
 <br><br><br>
 
 ## 🌐 **How to reach me**
