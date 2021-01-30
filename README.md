@@ -9,7 +9,7 @@
 ## 👨 **About me**
 
 I'm Renzo Carara, a **junior full stack web developer**.<br>
-I'm really interested in _coding_ and _web technologies_ and I'm trying to increase my IT knowledge.<br>
+I'm really interested in _coding_ and _web technologies_ and I'm trying to enhance my IT skills.<br>
 I'm striving to become a skilled software web developer.<br>
 
 <details>
