@@ -4,6 +4,7 @@
 <img src="https://github.com/renzocarara/renzocarara/raw/master/assets/banner.png" alt="divider" />
 </p>
 
+# **** NOT UPDATED SINCE February 2021 ****
 # Welcome on my GitHub profile!
 
 ## 👨 **About me**
